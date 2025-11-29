@@ -1,0 +1,139 @@
+Problems
+1. A farmer named Raju owns a rectangular piece of land.
+He wants to build a fence around it and also plant crops inside the land.
+
+To plan the fencing and crop area, he needs to calculate:
+
+The area of the rectangle (for crops).
+
+The perimeter of the rectangle (for fencing).
+
+He knows the length and width of the land in meters.
+Can you help Raju write a program to find both the area and perimeter of his land?
+
+2. Chef Rohan is preparing a special recipe that needs the oven temperature in Fahrenheit,
+but his thermometer only shows Celsius readings.
+
+He needs your help to convert the temperature from Celsius to Fahrenheit
+so that his dish cooks perfectly.
+
+Can you write a program to help Chef Rohan convert Celsius to Fahrenheit?
+
+3. A shopkeeper named Ramesh has a lucky number. He believes that if the number is even, he will have a lucky day, and if it is odd, he will have to work harder. He also wants to check if the number is divisible by 5, as that brings him extra luck!
+Can you help Ramesh write a program to check his number?
+Task:
+Write a program that takes an integer as input and:
+
+Checks whether it is even or odd.
+
+Checks whether it is divisible by 5 or not.
+
+4. Riya, a young mathematician, loves playing with numbers. One day, she picks a number and wants to check two things:
+
+Whether the number is prime or not.
+
+Whether it is even or odd.
+She wants your help to write a program that tells her both answers.
+Task:
+Write a program that takes an integer as input and:
+
+Checks if it is a prime number or not.
+
+Checks whether it is even or odd.
+
+5. A carpenter named Mohan is cutting two wooden planks of different lengths.
+He wants to cut both planks into smaller equal pieces without any leftover wood.
+To do this, he needs to find the greatest common divisor (GCD) of the two lengths.
+He also wants to know the least common multiple (LCM) — the smallest length at which both planks can be exactly aligned if placed end to end repeatedly.
+
+Can you help Mohan calculate both the GCD and LCM of the given two lengths?
+
+6. A teacher wants to analyze the marks of her students in a test.
+She asks you to write a program that stores the marks of n students and finds out:
+
+The total marks obtained by all students.
+
+The average marks of the class.
+
+Can you help the teacher by writing the program?
+
+7. Amit appeared in his first semester exams and got marks in several subjects.
+He now wants to find his highest and lowest marks to understand his performance.
+
+Help Amit by writing a program that finds the maximum and minimum marks from the list of marks he scored.
+
+8. Riya loves creating secret words.
+She calls a word “Perfect Secret Word” if it reads the same forward and backward.
+
+For example, words like madam, noon, and level are her favorites because they look the same from both sides!
+
+Now, she wants your help to check whether her word is a Perfect Secret Word or not.
+
+9. A weather station records temperature readings during the day.
+Positive readings mean above 0°C, negative readings mean below 0°C, and zero means exactly 0°C.
+
+Your job is to analyze the data and find how many readings are positive, negative, and zero.
+
+
+10. Neha keeps a diary of her daily exercise times (in minutes).
+She wants to review her progress, but she prefers to see the latest day’s record first.
+
+Write a program to help Neha reverse the order of her recorded exercise times.
+
+
+11. Professor Neo teaches Introduction to Programming to first-year students.
+Every day, he records attendance in a digital register using binary codes:
+
+1 means the student was present
+
+0 means the student was absent
+
+At the end of the week, Neo wants to analyze how his class performed in terms of attendance.
+He wants your help to count how many students were present and how many were absent on that particular day.
+
+12. Ramesh owns a small grocery shop in his town.
+He keeps a record of his daily profit or loss for a week in an array.
+
+If the value is positive, it means he made a profit that day.
+
+If the value is negative, it means he had a loss that day.
+
+At the end of the week, Ramesh wants to know:
+
+His total profit (sum of all positive values)
+
+His total loss (sum of all negative values, as a positive number)
+
+His net balance (profit + loss, considering signs)
+
+Help Ramesh write a program to calculate these values.
+
+13. At Assam Down Town University, the results for the semester exams have just been announced.
+The marks of 5 students in 3 subjects — Mathematics, Physics, and Computer Science — are stored in a 2D array.
+
+Each row of the array represents one student, and each column represents one subject.
+The class teacher wants to identify the highest marks in each subject so that those students can receive academic excellence awards.
+
+Write a program that reads the marks of 5 students in 3 subjects and prints the highest marks in each subject.
+
+14. Assam Down Town University maintains a strict hostel monitoring system to ensure student safety.
+Every hostel student must mark attendance daily.
+The warden keeps attendance for 7 days (Monday to Sunday) for 10 students.
+
+The attendance is stored in a 2D array A[10][7], where:
+A[i][j] = 1 → Student i was Present on Day j
+
+A[i][j] = 0 → Student i was Absent on Day j
+
+Here:
+
+i = Student number (1 to 10)
+
+j = Day number (1 to 7)
+
+The warden wants a weekly summary of attendance.
+
+15. At Assam Down Town University (ADTU), the hostel canteen records the daily food expenses of each student.
+Each row in a 2D array represents a student, and each column represents a day of the day week (from Monday to Friday).
+The value bill[i][j] is the amount in ₹ spent by student i on day j.
+You, as the Canteen Manager of ADTU, have been asked to analyze the weekly canteen records.
